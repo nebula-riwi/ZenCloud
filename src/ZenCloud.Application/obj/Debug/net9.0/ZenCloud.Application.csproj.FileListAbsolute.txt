@@ -1,0 +1,15 @@
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\bin\Debug\net9.0\ZenCloud.Application.deps.json
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\bin\Debug\net9.0\ZenCloud.Application.dll
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\bin\Debug\net9.0\ZenCloud.Application.pdb
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\bin\Debug\net9.0\ZenCloud.Domain.dll
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\bin\Debug\net9.0\ZenCloud.Domain.pdb
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.Application.csproj.AssemblyReference.cache
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.Application.AssemblyInfoInputs.cache
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.Application.AssemblyInfo.cs
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.Application.csproj.CoreCompileInputs.cache
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.B1EB3844.Up2Date
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.Application.dll
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\refint\ZenCloud.Application.dll
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ZenCloud.Application.pdb
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Application\obj\Debug\net9.0\ref\ZenCloud.Application.dll

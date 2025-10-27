@@ -1,0 +1,11 @@
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\bin\Debug\net9.0\ZenCloud.Domain.deps.json
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\bin\Debug\net9.0\ZenCloud.Domain.dll
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\bin\Debug\net9.0\ZenCloud.Domain.pdb
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\ZenCloud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\ZenCloud.Domain.AssemblyInfoInputs.cache
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\ZenCloud.Domain.AssemblyInfo.cs
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\ZenCloud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\ZenCloud.Domain.dll
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\refint\ZenCloud.Domain.dll
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\ZenCloud.Domain.pdb
+C:\Users\jfroj\Documents\ZenCloud\src\ZenCloud.Domain\obj\Debug\net9.0\ref\ZenCloud.Domain.dll
