@@ -1,0 +1,62 @@
+
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Core secrets
+secrets.json
+
+## Entity Framework
+Migrations/
+
+## Logs
+*.log
+
+## NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+## Configuration
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+## Publish
+publish/
+*.pubxml
+*.publishproj
+
+## Test results
+TestResults/
+*.trx
+
+## Others
+*.vspscc
+*.vssscc
+*.cache
+*.pidb
+*.svclog
+*.pdb
+*.mdb
+*.dbmdl
+*.bak
+*.sql
+*.sqlite
+
+## OS-specific
+.DS_Store
+Thumbs.db
