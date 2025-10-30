@@ -26,5 +26,15 @@ public class PgDbContext : Microsoft.EntityFrameworkCore.DbContext
         base.OnModelCreating(modelBuilder);
 
         modelBuilder.ApplyConfiguration(new UserConfiguration());
+        modelBuilder.ApplyConfiguration(new PlanConfiguration());
+        modelBuilder.ApplyConfiguration(new SubscriptionConfiguration());
+        modelBuilder.ApplyConfiguration(new DatabaseEngineConfiguration());
+        modelBuilder.ApplyConfiguration(new DatabaseInstanceConfiguration());
+        modelBuilder.ApplyConfiguration(new PaymentConfiguration());
+        modelBuilder.ApplyConfiguration(new EmailLogConfiguration());
+        modelBuilder.ApplyConfiguration(new WebhookConfigurationConfiguration());
+        modelBuilder.ApplyConfiguration(new WebhookLogConfiguration());
+        modelBuilder.ApplyConfiguration(new AuditLogConfiguration());
+        modelBuilder.ApplyConfiguration(new ErrorLogConfiguration());
     }
 }

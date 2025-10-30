@@ -1,7 +1,7 @@
 namespace ZenCloud.Domain.Entities;
 public class DatabaseEngine
 {
-    public int EngineId { get; set; }
+    public Guid EngineId { get; set; }
     public DatabaseEngineType EngineName { get; set; }
     public int DefaultPort { get; set; }
     public bool IsActive { get; set; } = true;

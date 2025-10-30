@@ -33,10 +33,10 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
             .HasMaxLength(500);
 
         builder.Property(u => u.CreatedAt)
-            .HasDefaultValueSql("GETUTCDATE()");
+            .HasDefaultValueSql("CURRENT_TIMESTAMP");
 
         builder.Property(u => u.UpdatedAt)
-            .HasDefaultValueSql("GETUTCDATE()");
+            .HasDefaultValueSql("CURRENT_TIMESTAMP");
 
         builder.Property(u => u.IsActive)
             .HasDefaultValue(true);
